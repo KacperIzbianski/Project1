@@ -1,5 +1,9 @@
 <resources>
-    <string name="app_name">Project</string>
-    <string name="clearButton">C</string>
-    <string name="edtiNumber"></string>
+    <string name="app_name">Lotto</string>
+    <string name="viewNumber1" />
+    <string name="viewNumber2" />
+    <string name="viewNumber3" />
+    <string name="viewNumber4" />
+    <string name="viewNumber5" />
+
 </resources>
