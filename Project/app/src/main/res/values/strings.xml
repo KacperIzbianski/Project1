@@ -5,5 +5,5 @@
     <string name="viewNumber3" />
     <string name="viewNumber4" />
     <string name="viewNumber5" />
-
+    <string name="clickButton">LOSUJ</string>
 </resources>
